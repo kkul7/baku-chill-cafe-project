@@ -22,6 +22,10 @@ Müştərilər üçün rahat, estetik və müasir kafe mühiti yaratmaq.
 - Personalın işə götürülməsi
 - Marketinq planı
 - Açılış
+## Layihə faylları
+Bu repository-də aşağıdakı sənədlər mövcuddur:
+- Trello layihə sənədi
+- Jira layihə sənədi
 ## Müəllif
 Ləman Məmmədova
 ## Əlavələr
