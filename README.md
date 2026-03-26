@@ -22,6 +22,7 @@ Müştərilər üçün rahat, estetik və müasir kafe mühiti yaratmaq.
 - Personalın işə götürülməsi
 - Marketinq planı
 - Açılış
-
+## Müəllif
+Ad Soyad: [Ləman Məmmədova]
 ## Əlavələr
 Layihə sənədi və screenshotlar repository-də yerləşdirilmişdir.
